@@ -25,6 +25,7 @@ Please follow these guidelines when formatting source code:
 
 * Go code should match the output of `gofmt -s`
 * Shell scripts should adhere to the [Google Shell Style guide](https://google.github.io/styleguide/shell.xml)
+* JavaScript code should adhere to the [JavaScript Style guide](https://github.com/flynn/flynn/blob/master/js-style.md)
 
 ## Developer’s Certificate of Origin
 
